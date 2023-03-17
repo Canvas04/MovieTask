@@ -1,7 +1,7 @@
 # Movies App - Рейтинг и жанры
 [Итоговый макет](https://www.figma.com/file/3Byrf7DtfhBjSBBLDo5WI8/Movies?node-id=9590%3A342&t=NMAwiMHed8pKzIpd-0)
 
-Используя [MovieDB API]([https://www.themoviedb.org/documentation/api?language=en-US](https://developers.themoviedb.org/3/getting-started/introduction)) и [Antd](https://ant.design/) разработайте приложение для поиска фильмов.
+Используя [MovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) и [Antd](https://ant.design/) разработайте приложение для поиска фильмов.
 
 Добавим функционал добавления в избранное и отображение жанров.
 
